@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	jpegstructure "github.com/dsoprea/go-jpeg-image-structure"
+	jpegstructure "github.com/neurosnap/go-jpeg-image-structure"
 	pngstructure "github.com/dsoprea/go-png-image-structure"
 	"github.com/stretchr/testify/assert"
 )

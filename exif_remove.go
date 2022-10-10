@@ -8,7 +8,7 @@ import (
 	"image/png"
 
 	"github.com/dsoprea/go-exif"
-	"github.com/dsoprea/go-jpeg-image-structure"
+	"github.com/neurosnap/go-jpeg-image-structure"
 	"github.com/dsoprea/go-png-image-structure"
 )
 
